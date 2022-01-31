@@ -1,0 +1,3 @@
+Faker
+google-cloud-pubsub
+apache_beam[gcp]

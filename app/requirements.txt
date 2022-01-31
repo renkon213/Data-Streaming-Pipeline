@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scipy
+google-cloud-storage==1.43.0
+fsspec
+gcsfs
